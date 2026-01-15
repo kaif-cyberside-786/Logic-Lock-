@@ -1,2 +1,11 @@
-# Logic-Lock-
-A brain-teasing puzzle game where the player must unlock doors by solving logical patterns, number sequences, and memory challenges.
+# 🔐 Logic Lock
+
+A browser-based puzzle game built with JavaScript.
+
+## 🎯 Features
+- Logic & number puzzles
+- Clean dark UI
+- Progressive difficulty
+
+## 🛠 Tech Stack
+HTML • CSS • JavaScript
