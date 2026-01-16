@@ -6,10 +6,20 @@
 </head>
 <body>
   <div id="game-box">
+    <div id="progress-container">
+      <div id="progress-bar">
+        <div id="progress-fill"></div>
+      </div>
+      <div id="level-indicator">Level 1 of 3</div>
+    </div>
     <h2 id="question"></h2>
-    <input id="answer" placeholder="Enter answer" />
-    <button onclick="check()">Unlock</button>
+    <input id="answer" placeholder="Enter your answer..." />
+    <div id="button-container">
+      <button onclick="check()">🔓 Unlock</button>
+      <button id="hint-btn" onclick="showHint()">💡 Hint</button>
+    </div>
     <p id="result"></p>
+    <p id="hint-text" style="display: none;"></p>
   </div>
 
   <script src="puzzles.js"></script>
