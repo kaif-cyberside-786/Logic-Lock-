@@ -77,4 +77,3 @@ Modify `style.css` to customize colors, animations, or layout. Key variables:
 - [ ] Score system with time bonuses
 - [ ] More puzzle types (riddles, math problems)
 - [ ] Leaderboard functionality
-- [ ] Mobile app version
