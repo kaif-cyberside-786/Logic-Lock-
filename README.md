@@ -74,6 +74,5 @@ Modify `style.css` to customize colors, animations, or layout. Key variables:
 ## 🌟 Future Enhancements
 
 - [ ] Sound effects for feedback
-- [ ] Score system with time bonuses
 - [ ] More puzzle types (riddles, math problems)
 - [ ] Leaderboard functionality
