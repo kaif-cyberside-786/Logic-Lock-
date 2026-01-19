@@ -71,8 +71,4 @@ Modify `style.css` to customize colors, animations, or layout. Key variables:
 - Accent colors: `--accent-color`
 - Animation durations: `--anim-duration`
 
-## 🌟 Future Enhancements
 
-- [ ] Sound effects for feedback
-- [ ] More puzzle types (riddles, math problems)
-- [ ] Leaderboard functionality
