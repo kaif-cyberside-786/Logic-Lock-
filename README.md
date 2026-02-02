@@ -8,7 +8,6 @@ A visually stunning browser-based puzzle game that challenges your logic and rea
 - **Logic Puzzles**: Sequence patterns, odd-one-out, and letter-to-number challenges
 - **Progressive Difficulty**: 3 levels of increasing complexity
 - **Hint System**: Get subtle clues when stuck
-- **Keyboard Support**: Press Enter to submit answers quickly
 
 ### 🎨 Engaging Interface
 - **Animated Background**: Dynamic gradient shifts for visual appeal
