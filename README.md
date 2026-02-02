@@ -64,10 +64,3 @@ Edit `puzzles.js` to add new puzzle objects:
 }
 ```
 
-### Styling Changes
-Modify `style.css` to customize colors, animations, or layout. Key variables:
-- Background gradients: `--bg-gradient`
-- Accent colors: `--accent-color`
-
-
-
