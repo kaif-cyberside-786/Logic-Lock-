@@ -62,5 +62,5 @@ Edit `puzzles.js` to add new puzzle objects:
   answer: "correct_answer",
   hint: "Helpful hint for players"
 }
-```
+``
 
